@@ -102,7 +102,7 @@
 
 <a href="mailto:hasanzadehsadra47@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" /></a>&nbsp;
 <a href="https://t.me/J9vLp" target="_blank"><img src="https://img.shields.io/badge/📱%20TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="http://freands-chat.rubihost.cyou/about-me" target="_blank"><img src="https://img.shields.io/badge/🌐%20WEBSITE-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117&color=blue" /></a>&nbsp;
+<a href="http://freands-chat.rubihost.cyou/about-me.html" target="_blank"><img src="https://img.shields.io/badge/🌐%20WEBSITE-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117&color=blue" /></a>&nbsp;
 <a href="https://github.com/amirsadrahasanzadeh" target="_blank"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&labelColor=0d1117&color=181717" /></a>&nbsp;
 
 <br />
