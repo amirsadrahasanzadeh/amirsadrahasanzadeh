@@ -31,14 +31,6 @@ I enjoy exploring ideas, solving problems, and building things that are useful b
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsadrahasanzadeh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect
 
 <a href="https://github.com/amirsadrahasanzadeh">
