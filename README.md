@@ -44,6 +44,9 @@ I enjoy exploring ideas, solving problems, and building things that are useful b
 <a href="https://github.com/amirsadrahasanzadeh">
   <img src="https://img.shields.io/badge/GitHub-amirsadrahasanzadeh-181717?style=flat-square&logo=github" alt="GitHub Profile" />
 </a>
+<a href="mailto:a.s.hasanzadeh1321@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
